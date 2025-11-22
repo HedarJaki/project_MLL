@@ -1,6 +1,0 @@
-#ifndef COMPOSER_H_INCLUDED
-#define COMPOSER_H_INCLUDED
-
-
-
-#endif // COMPOSER_H_INCLUDED
